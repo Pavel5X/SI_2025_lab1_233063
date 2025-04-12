@@ -1,0 +1,21 @@
+  371  git fetch origin
+  373  git checkout 1-remove-a-task-by-name
+  376  nano SI2025Lab1Main.java
+  377  git add SI2025Lab1Main.java
+  378  git commit -m "Implement function for issue number 1"
+  379  git push origin 1-remove-a-task-by-name
+  380  git checkout 2-find-all-completed-tasks
+  390  git pull origin master
+  391  nano SI2025Lab1Main.java
+  392  git add SI2025Lab1Main.java
+  393  git commit -m "Insert function for issue number 2 and add missing ; sign"
+  394  git push origin 2-find-all-completed-tasks
+  396  git checkout 3-list-tasks-sorted-by-name
+  397  nano SI2025Lab1Main.java
+  398  git add SI2025Lab1Main.java
+  399  git commit -m "Insert function for issue number 3"
+  408  git push origin 3-list-tasks-sorted-by-name
+  409  git checkout master
+  410  git merge 3-list-tasks-sorted-by-name
+  411  git push origin master
+  412  git log --oneline --graph --all | cat> logs.txt

@@ -1,0 +1,24 @@
+*   42d2872 Merge branch 'master' of https://github.com/Pavel5X/SI_2025_lab1_233063 into 3-list-tasks-sorted-by-name
+|\  
+| *   d18a685 Merge pull request #13 from Pavel5X/2-find-all-completed-tasks
+| |\  
+| | * ec45347 Insert function for issue number 2 and add missing ; sign
+| |/  
+| *   2bc3aa5 Merge pull request #12 from Pavel5X/revert-11-revert-10-1-remove-a-task-by-name
+| |\  
+| | * 35a852c Revert "Revert "Implement function for issue number 1""
+| |/  
+| *   c7955c9 Merge pull request #11 from Pavel5X/revert-10-1-remove-a-task-by-name
+| |\  
+| | * 23e1c4b Revert "Implement function for issue number 1"
+| |/  
+| *   6486a97 Merge pull request #10 from Pavel5X/1-remove-a-task-by-name
+| |\  
+* | | 7ada1e0 Insert function for issue number 3
+|/ /  
+| | * 35deb0b Added missing ; sign
+| |/  
+| * 1c70e28 Implement function for issue number 1
+|/  
+* 47b084c Add starter code
+* ede98f4 Initial commit
